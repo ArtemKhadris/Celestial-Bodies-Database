@@ -2,8 +2,8 @@
 
 [Problem link](https://www.freecodecamp.org/learn/relational-database/build-a-celestial-bodies-database-project/build-a-celestial-bodies-database)
 
-Build a Celestial Bodies Database
-Instructions
+##Build a Celestial Bodies Database
+###Instructions
 For this project, you need to log in to PostgreSQL with psql to create your database. Do that by entering psql --username=freecodecamp --dbname=postgres in the terminal. Make all the tests below pass to complete the project. Be sure to get creative, and have fun!
 
 Don't forget to connect to your database after you create it 😄
@@ -16,6 +16,7 @@ If you leave your virtual machine, your database may not be saved. You can make 
 If you are saving your progress on freeCodeCamp.org, after getting all the tests to pass, follow the instructions above to save a dump of your database. Save the "universe.sql" file in a public repository and submit the URL to it on freeCodeCamp.org.
 
 Complete the tasks below:
+
     You should create a database named universe
 
     Be sure to connect to your database with \c universe. Then, you should add tables named galaxy, star, planet, and moon
