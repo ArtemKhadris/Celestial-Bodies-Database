@@ -2,8 +2,8 @@
 
 [Problem link](https://www.freecodecamp.org/learn/relational-database/build-a-celestial-bodies-database-project/build-a-celestial-bodies-database)
 
-##Build a Celestial Bodies Database
-###Instructions
+## Build a Celestial Bodies Database
+### Instructions
 For this project, you need to log in to PostgreSQL with psql to create your database. Do that by entering psql --username=freecodecamp --dbname=postgres in the terminal. Make all the tests below pass to complete the project. Be sure to get creative, and have fun!
 
 Don't forget to connect to your database after you create it 😄
